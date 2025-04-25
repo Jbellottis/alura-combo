@@ -2,15 +2,13 @@
 
 ![image](https://github.com/Jbellottis/alura-combo/blob/main/img/print-tela.png)
 
-## Hospedagem do projeto no [Vercel](https://compra-de-ingressos-five.vercel.app/).
+## Hospedagem do projeto no [Vercel](https://alura-combo-psi.vercel.app/).
 
 ## Ferramentas utilizadas:
 
 * HTML
 
 * CSS
-
-* JavaScript
 
 ## Feito por:
 
